@@ -1,0 +1,46 @@
+spam_credit = {
+    "Hi, Nehaa urgently need new staff, Come and get your wage 28000Rs a day . Click to claim your exclusive offer and join https://wa.me/919631000957 Jacov": ('Credit Spam', 'fake','urgently,get,claim,exclusive',28000),
+    "Exclusive for You, Earn an easy Rs. 50! by reviewing your college. Grab it. NOW: http://1kx.in/OvwVbniaETM @ CollegeDekho":('Credit Spam', 'fake', 'Grab,Earn,Exclusive', 50 ),
+    "Rs. 7,000/- credited to your Rush Account! Surprised? Deposit Rs.10/- in Rush and withdraw your money directly in your bank account : SR3.in/N1BA2-213B8A2C9" : ('Credit Spam','fake','credited,Rush,Surprised,Deposit,withdraw',7000),
+    "Dear User, You’ve earned My11Circle 5100 Bonus + 10% Real Cash Welcome Bonus(MY5100) on Specials. Click on https://t.jio/v/I647 to claim your coupon!  T&C Team JioCoupon": ('Credit Spam', 'fake', 'earned,Specials,claim,coupon',5100),
+    "Dear User, You've got Perfume Lounge coupon of 4 Exotic Perfumes set at Rs499(JIOWINGIFT) on My Winnings. Click on https://t.jio/v/R543 to claim.": ('Credit Spam', 'fake', 'coupon,Winning',499 ),
+    "T&C URGENT: ?50 Cash Reward for Your College Review! Act Fast, ! Click & Claim: http://1kx.in/OHXL41kOajT Only at CollegeDekho": ('Credit Spam', 'fake','urgent,Reward,claim',50),
+    "Hurry! Recharge Jio no. 892080xxxx with Rs.749 plan (2 GB/day+20 GB Extra  Data Offer, Voice unlimited, 90 days) on Amazon Pay. Existing User gets upto Rs.200 Rewards, New User gets upto Rs.45 Cashback. T&CA. https://amazon.in/jiomay1":('Credit Spam', 'fake','hurry,offer,cashback,exciting,reward','200'),
+    "Rs.25 has been rewarded to you as a referral bonus CRICPE Hi Nishant ! Earn 50 NeuCoins on your first bill payment or recharge of Rs.300 & above. Use NeuCoins to shop for groceries, medicines, travel & more. https://tneu.in/LcO65tZP Tata Neu. T&C apply": ('Credit Spam','fake','NeuCoins,rewarded,referral,bonus',300),
+    "New Balance: RS5,500.00 Great news! Your Dream11 account has been credited with ₹2,000.00 on 03-Jul-2024 at 10:00. New Balance: ₹7,200.00":('Spam','fake','credited,New Balance,Great news',7200),
+    "Congratulations! Your RummyCircle account has been credited with ₹1,500.00 on 03-Jul-2024 at 09:00.":('credit Spam','fake','credited,RummyCircle','1500),
+    "Dear User, You've got My11Circle coupon of Flat 5000 bonus cash on My Winnings. Click on https://t.jio/winnings-MY11REP to claim. T&C":('Credit Spam','fake','My11Circle, coupon,bonus,Winnings','5000'),
+    "Join the Quiz on India's Democracy and win Rs. 5,000! Play now https://quiz.mygov.in/quiz-on-indias-democracy/ Share with family and friends. Team MyGov":('Credit Spam','fake','Quiz,Join,win','5000'),
+    " DearSirMadam My name is Nehaa, urgently need workers 10500RS, contact: https://api.whatsapp.com/send?phone=919730644921 MyAccountsinERPTeamManagement":('Credit Spam','fake','DearSirMadam,urgently,contact','10500'),
+    "Greetings!! Your FreshToHome a/c has been credited with 100 FreshCash with validity till TONIGHT!! Order now freshtohome.com/d":('Credit Spam','fake','credited,validity','100'),
+    "Goodevening 8059401270 Congratulations,You receive 65% Discount on FullBodyCheck @ Your HOME 44 Tests Worth 1490 @ just 499 Click & Book http://ieie.in/kbb4WKm":('Credit Spam','fake','65% Discount,Congratulations,Worth','499'),
+    "Hi, Rs 40000 credited in bank acc. XXX8659. Get your Personal loan of up to Rs 40000 from Snapmint. Money credited now. Apply now snpmt.in/8EM8Re":('Credit Spam','fake','credited,Personaly,loan','40000'),
+    "Congrats, you have successfully withdrawn your Dream11 winnings of Rs.88. Transaction ID: UW202406291956007491708.":('Credit Spam','fake','Congrats,withdrawn,winnings',88),
+    "Dear INDUSIND CARD USER Thank you for placing your order . REWARD CASH OF 8800 expired TODAY. Your order is on its way. check status www.rdrd.site -RKCOLLECTION":('Credit Spam','fake','Thank you,REWARD,expired','8800'),
+    "Order: Out for delivery TODAY. Feels good right? Get The Moms Co. Spot Reduction Duo worth Rs.1146 at Rs.99. NOW + grab a freebie!":('Credit Spam','fake',' worth,freebie',1146),
+    "Dear Customer, Congratulations! Your Flipkart account got an update! You're pre-qualified for Personal Loan upto 10 Lakhs. Apply now http://fkrt.it/1lSdgfNNNN ":('Credit Spam','fake','Congratultion%pre-qualified for personal-Loan','1000000'
+    " Make waves this summer. Don't let finances hold you back. Get pre-approved Personal Loan of Rs. 68000. Give a missed call 8505883322 to Avail Now. Click here https://m.bflcomm.in/UgcJCB to download the Bajaj Finserv app & win amazing rewards. T&C Bajaj Finance ":('Cedit Spam','fake','Get pre-approved Personal Loan%Avail Now','68000')
+    " Last 3 days left to take the IBSAT National Mock Test. First prize Rs.10000 gift voucher. Get ready for the preparation. Register Now https://bit.ly/40cLEjs ":('Credit Spam','fake','First Prize%Gift Voucher','10000'),
+    "Hi 935450xxxx, Rs.96,543/- is credited to your wallet By BHIM Ref ID: 223XXXX.ybl. Withdraw Now OI1.in/gc5r7!8mp4qt1 ":('Credit Spam','fake','hi%Ref ID: %XXXX%Withdraw now','96543'),
+    "REMINDER: Loan of up to Rs 9,00,000 is waiting for Airtel family member! Get it in your account within seconds with Airtel Flexi Credit. No paperwork required. Get now https://i.airtel.in/FSPANM" : ('Spam','Fake',"Reminder%up to",'9,00,000'),
+    "Congrats 74889422XX, Rs.1500 Welcome Bonus. HYD vs GUJ, T20 Match on My11Circle. Prize Pool - 6,63,00,000(6.63Crores). Join -   http://1kx.in/OI8z3rdZ1sz" : ('Cedit Spam','Fake',"Welcome Bonus%My11Circle",'1500'),
+    "Come back to Amazon & claim upto Rs20 Cashback + upto Rs1000 in REWARDS! Recharge your Vi number with Rs155+ via Amazon Pay. T&C Apply. Click www.amazon.in/VI" : ('Spam','Fake',"claim%cashback%upto",'1000'),
+    "Hi,Your resume has approved. You can get 21000 by completing simple tasks each day. https://wa.me/919797659619 SHRIDT" : ('Credit Spam','Fake',"resume%approved",'21000'),
+    "Dear 89302037XX, Rs.5000 Bonus to be credited on My11Circle. HYD vs PUN Prize Pool - 6,70,00,000 (6.70 Cr) Entry Fees - Rs.49 Click - http://gmg.im/zloEc" : ('Credit Spam','Fake',"Bonus%credited%My11Circle",'5000'),
+    "Dear Partner Thanks for registering with Zomato. Earn upto Rs. 15000 per month. Watch this video to know more: https://youtu.be/5SpXmdITXDo -ZOMATO" : ('Credit Spam','Fake',"Earn upto",'15000')
+
+}
+
+
+
+ 
+Credited_real = {
+    "Your a/c XX9829 is credited for INR 4000.00  on 19-06-24 11:28 through UPI.Available Bal INR 7001.81 (UPI Ref ID 417161226463).Download PNB ONE-PNB" : ('Income','Real',"Your a/c%credited%UPI Ref%Available Bal",'4000'),
+    "Received Rs.4000.00 in your Kotak Bank AC X2210 from 7979927346@axl on 18-06-24.UPI Ref:417002569761." : ('Income','Real',"Received Rs%UPI Ref",'4000'),
+    "BOI -  Rs.2800.00 Credited to your Ac XX2099 on 25-06-24 by UPI ref No.417735674889.Avl Bal 4375.79" : ('Income','Real',"Credited%UPI ref%Bal",'2800'),
+    "BOI -  Rs.200.00 Credited to your Ac XX2099 on 25-06-24 by UPI ref No.417735539818.Avl Bal 1575.79" : ('Income','Real',"Credited%UPI ref No",'200'),
+    "Flipkart Refund Processed: Refund of Rs. 721.0 for PRETTY LOVING THING Wo... is successfully transferred and will be credited to your account by Sep 27, 2022." : ('Refund','Real',"Refund Processed%successfully%credited",'721'),
+    "A/c *6329 Credited for Rs:1000.00 on 20-06-2024 16:52:43 by Mob Bk ref no 417288147023 Avl Bal Rs:1722.74.Never Share OTP/PIN/CVV-Union Bank of India" : ('Income','Real',"credited%ref no%Avl Bal",'1000'),
+    "Account  No. XXXXXXXX3438 CREDIT with amount Rs. 200000.00 on 29-04-2024. Balance: Rs.202408.00. [IN2096174]" : ('Income','Real',"CREDIT%amount",'200000'),
+    "Congrats, you have successfully withdrawn your Dream11 winnings of Rs.88. Transaction ID: UW202406291956007491708." : ('Income','Real',"successfully%withdrawn",'88')
+}

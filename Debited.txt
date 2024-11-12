@@ -1,0 +1,32 @@
+spam_debit{    
+    "eazypay has requested money from you on PhonePe.Rs.1310 will be debited from your account on approving the request - https://phone.pe/51l0bkn0": ('Debit Spam', 'fake','PhonePe,debited,account,approving,request', 1310 ),
+    " Hi ,Limited Period offer! Get 100% Instant Cash up to Rs.5000 with Sit & Go tourney tickets .Min Dep. Rs.50, Use Code: ADDA1000 Deposit Now - weurl.co/prBYpiAdda52" : ('Debit Spam', 'fake', 'Limited,Instant', 5000),
+    "Dear Client (53617578), we have received Rs.203.00 in your account. Please take note of the transaction reference no. 415120551966 Regards - rummy circle":('Debit Spam','fake','received,rummy circle',203),
+    "LIC Premium Rs.**14865.11 for Policy No. XXXXX3416 due on 04/2024. You can pay online by https://ebiz.licindia.in/D2CPM/#Login. Please ignore, if paid. ":('Debit Spam','fake','premium%You can pay online','14865'),
+    "As per record of Transport Department the PUCC of your vehicle number DL11SCXXXX had expired/ vehicle not checked before. You are requested to get new PUCC of your vehicle to avoid penalty under Section 190 (2) of MV Act, which is Rs 10,000 along with imprisonment which can be extended up to 03 months. Transport Department GNCTD ":('Debit Spam','fake','avoid penalty','10000')
+    "REMINDER: Loan of up to Rs 9,00,000 is waiting for Airtel family member! Get it in your account within seconds with Airtel Flexi Credit. No paperwork required. Get now https://i.airtel.in/FSPANM" : ('Debit Spam','Fake',"Reminder%up to",'9,00,000'),
+    "Congrats 74889422XX, Rs.1500 Welcome Bonus. HYD vs GUJ, T20 Match on My11Circle. Prize Pool - 6,63,00,000(6.63Crores). Join -   http://1kx.in/OI8z3rdZ1sz" : ('Debit Spam','Fake',"Welcome Bonus%My11Circle",'1500'),
+    "eazypay has requested money from you on Google Pay. On approving the request, INR 1910.00 will be debited from your A/c - Axis Bank" : ('Debit Spam','Fake',requested%approving%debited",'1910'),
+    "DELHI TRAHi,Your resume has approved. You can get 21000 by completing simple tasks each day. https://wa.me/919797659619 SHRIDTNSPORT CORPORATION has requested money from you on Google Pay. On approving the request, INR 200.00 will be debited from your A/c - Axis Bank" : ('Debit Spam','Fake',"requested%approving%debited",'200'),
+    "IBPS BILLDESK has requested money from you on PhonePe.Rs.850 will be debited from your account on approving the request - https://phone.pe/v7sml5co" : ('Debit Spam','Fake',"requested%debited",'850') 
+}
+
+
+
+Debited_real = {
+    "A/c XX9829 debited INR 3999.00 Dt 20-06-24 15:23 thru UPI:417265427854.Bal INR 1002 Not u?Fwd this SMS to 9264092640 to block UPI.Download PNB ONE-PNB" : ('Expense','Real',"debited%Bal%UPI",'1002'),
+    "Sent Rs.100.00 from Kotak Bank AC X2210 to paytm-8727353@paytm on 11-06-24.UPI Ref 452904053245. Not you, kotak.com/fraud" : ('Expense','Real',"Sent Rs%UPI Ref",'100'),
+    "You've paid Rs.300 via PhonePe wallet for PLGD ENTERPRISES. Not you? Call us on 022-68727374. Remaining balance: Rs.74. To top-up click https://phon.pe/ws " : ('Wallet','Real',"paid Rs%balance",'300'),
+    "A/c *6329 Debited for Rs:10.00 on 01-07-2024 17:26:51 by Mob Bk ref no 418363790048 Avl Bal Rs:354.84.If not you, Call 1800222243 -Union Bank of India" : ('Expense','Real',"Debited%ref no%Bal",'10'),
+    "Hi, recharge of Rs. 479 successfully credited to your Airtel number 8059401270, also the validity has been extended till 14-08-2024." : ('Recharge','Real',"recharge%successfully",'479'),
+    "BILL PAID AGAINST ACCOUNTNUMBER:9173393000 WITH AMOUNT:394.00 MODE:PAYTM RECEIPT NO:108440429 RECEIPT DATE:17/04/2024" : ('Expense','Real',"BILL PAID%AMOUNT%RECEIPT NO",'394'),
+    "Dear Client  N53617578,  Funds withdrawal of Rs. 203.00 has been processed successfully with UTR Number  CMS4199945483. Regards - Angel One" : ('Expense','Real',"withdrawal%successfully",'203'),
+    "Account  No. XXXXXXXX3438 DEBIT with amount Rs. 200000.00 on 29-04-2024. Balance: Rs.2408.00. [IN4749956]" : ('Expense','Real',"DEBIT%amount%Balance",'200000'),
+    "Rs.50.00 debited A/cXX2099 and credited to MOHAMMAD ISMILE via UPI Ref No 418006250974 on 28Jun24. Call 18001031906, if not done by you. -BOI" : ('Expense','Real',"debited%UPI Ref",'50'),
+    "Rs.4000.00 debited A/cXX2099 and credited to RAKESH KUMAR via UPI Ref No 452994165525 on 11Jun24. Call 18001031906, if not done by you. -BOI" : ('Expense','Real',"debited%UPI Ref",'4000'),
+    "Your SB A/c *6329 Debited for Rs.1310.00 on 03-04-2024 10:20:34 by Debit Card Swipe Avl Bal Rs.1217.28 -Union Bank of India" : ('Expense','Real',"Debited%Bal",'1310'),
+    "Rs.203.00 debited A/cXX2099 and credited to TATA PLAY DIRECT via UPI Ref No 452948657597 on 11Jun24. Call 18001031906, if not done by you. -BOI" : ('Expense','Real',"debited%UPI Ref No",'203'),
+    "BOI -  Rs 18 Debited(TRF) SMSChrgsJAN-MAR24 GST G CUST 1 in your Ac XX2099 on 06-05-2024. .Avl BalRs 1271.29." : ('Expense','Real',"Debited%Avl Bal",'18'),
+    "Dear Payer, you have made a payment of Rs. 1110.00 to STUDENT LIFE CYCLE FEE PAYMENT UNIVERSITY OF DELHI vide eazypay reference ID 231006165708337." : ('Expense','Real',"made a payment%reference ID",1110'),
+    "Paid Rs. 100 to Paytm Bill from Paytm Balance. Updated Balance: Paytm Wallet- Rs 0. For more details visit Paytm.com/care." : ('Expense','Real',"Paid%wallet",'100')
+}
